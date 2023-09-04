@@ -9,7 +9,7 @@ The code using geopandas and pandas to work on GIS data and then aggregates & ma
 
 After that Folium is used to create an interactive map
 
-<iframe src="map.html" height="600" width="600"></iframe>
+<iframe src="map.html" height="600" width="800"></iframe>
 
 See the full code [here](https://github.com/sshourie/Folium_map/blob/main/Map.ipynb). 
 
