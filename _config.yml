@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: US Highway Traffic Estimate
-description: This website demonstrates shows an easy to recreate interactive map using folium and python. 
+description: This website demonstrates an easy to recreate interactive map using folium and python. 
 # logo: Taughannock.jpg
 #You can also add a logo from an image URL, as below
 #logo: https://www.lawschool.cornell.edu/_cs_apps/pt_photo_gallery/uploads/mainphotogallery/fullsizeimage/Photogallery_Ithacapage_8.png
