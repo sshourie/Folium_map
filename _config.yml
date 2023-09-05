@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: minima
 title: US Highway Traffic Estimate
 description: This website demonstrates an easy to recreate interactive map using folium and python. 
 # logo: Taughannock.jpg
