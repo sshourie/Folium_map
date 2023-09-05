@@ -1,4 +1,4 @@
-## US Highway Map 
+<!-- ## US Highway Map  -->
 ### Interactive Folium map to see busiest US highways and their traffic.
 
 The green lines are select US highways and the red dots are sensor stations on those highways that calculate traffic volume data.
